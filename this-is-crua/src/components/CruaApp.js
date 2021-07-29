@@ -5,7 +5,7 @@ import CruaHeader from './CruaHeader'
 
 const CruaApp = () => {
     return (
-        <div>
+        <div className='cruaApp__container_general'>
             <CruaHeader/>
             <CruaBody/>
             <CruaFooter/>
